@@ -4,7 +4,7 @@ desktop vizualizer
 A single-page audio-reactive visualizer with a full control panel, several shape/color modes, mic input (not working) and a "performance mode" that hides the UI so you can drag the window to your projector and just show the visuals. Settings will also save automatically in the browser.
 
 
-Key  
+24 Key  
 Action.   
 1–7  Jump to shape (Bars → Fireworks).   
 C    Cycle color palette.  
