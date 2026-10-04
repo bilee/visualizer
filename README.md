@@ -7,7 +7,7 @@ A single-page audio-reactive visualizer with a full control panel, several shape
 Key  
 Action.   
 1–7  Jump to shape (Bars → Fireworks).   
-C    Cycle color palette. 
+C    Cycle color palette.  
 B    Cycle backdrop.  
 ↑ / ↓  BPM up/down.  
 ← / →  Sensitivity down/up.  
