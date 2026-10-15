@@ -3,7 +3,8 @@ desktop vizualizer
 
 A single-page audio-reactive visualizer with a full control panel, several shape/color modes, mic input (not working) and a "performance mode" that hides the UI so you can drag the window to your projector and just show the visuals. Settings will also save automatically in the browser.
 
-Copy code into text file and name it visualizer.html (or whatever version you copy). 
+I created different versions with different visuals.  
+Click download raw file. 
 Open file in a browser and use the keyboard to control visuals.  
 
 24 Key  
